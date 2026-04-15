@@ -1,0 +1,70 @@
+name: smart_stitched_ai1
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5+1
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  firebase_core: ^4.4.0
+  cloud_firestore: ^6.1.2
+  speech_to_text: ^7.3.0
+  flutter_tts: ^4.2.3
+  audioplayers: ^6.5.1
+  camera: ^0.11.3
+  image: ^4.0.0
+  google_mlkit_text_recognition: ^0.15.1
+  image_picker: ^1.0.4
+  flutter_svg: ^2.2.3
+  url_launcher: ^6.3.2
+  intl: ^0.20.2
+  pdf: ^3.11.3
+  printing: ^5.14.2
+  screenshot: ^3.0.0
+  firebase_auth: ^6.1.4
+  firebase_database: ^12.1.2
+  google_sign_in: ^6.2.1
+  connectivity_plus: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/icons/
+    - lib/assets/icons/NastaliqUrdu-Regular.ttf
+    - lib/assets/icons/MaterialIcons-Regular.ttf
+    - lib/assets/images/
+
+  fonts:
+    - family: UrduFont
+      fonts:
+        - asset: lib/assets/icons/NastaliqUrdu-Regular.ttf
+
+    - family: MaterialIcons
+      fonts:
+        - asset: lib/assets/icons/MaterialIcons-Regular.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/images/new_app_icon.png"
+  adaptive_icon_background: "#0F172A"
+  adaptive_icon_foreground: "lib/assets/images/new_app_icon.png"
+

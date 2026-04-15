@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43765152948",
+    "firebase_url": "https://smart-stitch-ai-final-default-rtdb.firebaseio.com",
+    "project_id": "smart-stitch-ai-final",
+    "storage_bucket": "smart-stitch-ai-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43765152948:android:f405fa217c9cda13cc2be1",
+        "android_client_info": {
+          "package_name": "com.example.smart_stitched_ai1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43765152948-bee6758qrektouc4iucfggadv3ke8vmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_stitched_ai1",
+            "certificate_hash": "c9fbce8e9a376d58e82d84932186c84a38cd8c71"
+          }
+        },
+        {
+          "client_id": "43765152948-2qoau6ji9a1runlo7mgppd3hh0fmpntd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TK69R6wFcIKjifJcK3vCAZi592AlVCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43765152948-2qoau6ji9a1runlo7mgppd3hh0fmpntd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
