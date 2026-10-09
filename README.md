@@ -136,3 +136,17 @@ This project was developed for academic purposes. Add a suitable open-source lic
 ---
 
 ⭐ If you find this project interesting, consider starring the repository on GitHub.
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](dashboard.jpeg)
+
+### New Order
+![New Order](new_order.jpeg)
+
+### Inventory
+![Inventory](inventory.jpeg)
+
+### Reports
+![Reports](reports.jpeg)
